@@ -47,6 +47,10 @@ This is a repository that contains computer vision algorithms that works in rain
 
 * Unpaired Deep Image Deraining Using Dual Contrastive Learning [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Unpaired_Deep_Image_Deraining_Using_Dual_Contrastive_Learning_CVPR_2022_paper.html)] **(NO CODE)**
 
+* Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.html)] [[code](https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal)]
+
+* Neural Compression-Based Feature Learning for Video Restoration [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Neural_Compression-Based_Feature_Learning_for_Video_Restoration_CVPR_2022_paper.pdf)] **(NO CODE)**
+
 
 # Datasets
 
