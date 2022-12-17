@@ -21,8 +21,6 @@ This is a repository that contains computer vision algorithms that works in rain
 
 # Models (Deraining)
 
-# TODO: One-line summary for each paper
-
 ## ICLR 2023 (under review)
 
 * Selective Frequency Network for Image Restoration [[OpenReview](https://openreview.net/forum?id=tyZ1ChGZIKO)] 
