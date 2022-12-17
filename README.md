@@ -27,6 +27,10 @@ This is a repository that contains computer vision algorithms that works in rain
 
 * Networks are Slacking Off: Understanding Generalization Problem in Image Deraining [[OpenReview](https://openreview.net/forum?id=qGuU8To1y7x)] 
 
+## NeurlPS 2022
+
+* Generative Status Estimation and Information Decoupling for Image Rain Removal [[OpenReview](https://openreview.net/forum?id=C2o5DeL_8L1)]
+
 ## ECCV 2022
 
 * Rethinking Video Rain Streak Removal: A New Synthesis Model and A Deraining Network with Video Rain Prior [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790556.pdf)] [[code](https://github.com/wangshauitj/RDD-Net)]
