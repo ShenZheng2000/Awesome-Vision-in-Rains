@@ -39,6 +39,15 @@ This is a repository that contains computer vision algorithms that works in rain
 
 ## CVPR 2022
 
+* Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.html)] [[code](https://github.com/yuyi-sd/robust_rain_removal)]
+
+* Dreaming To Prune Image Deraining Networks [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.html)] **(NO CODE)**
+
+* Unsupervised Deraining: Where Contrastive Learning Meets Self-Similarity [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupervised_Deraining_Where_Contrastive_Learning_Meets_Self-Similarity_CVPR_2022_paper.html)] [[code](https://github.com/yunguo224/NLCL)]
+
+* Unpaired Deep Image Deraining Using Dual Contrastive Learning [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Unpaired_Deep_Image_Deraining_Using_Dual_Contrastive_Learning_CVPR_2022_paper.html)] **(NO CODE)**
+
+
 # Datasets
 
 # Metrics
