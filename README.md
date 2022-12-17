@@ -19,7 +19,19 @@ This is a repository that contains computer vision algorithms that works in rain
   * Use unpaired training data with natural (i.e., real-world) rains
 
 
-# Models
+# Models (Deraining)
+
+## ECCV 2022
+
+* Rethinking Video Rain Streak Removal: A New Synthesis Model and A Deraining Network with Video Rain Prior
+
+* Not Just Streaks: Towards Ground Truth for Single Image Deraining
+
+* ART-SS: An Adaptive Rejection Technique for Semi-Supervised Restoration for Adverse Weather-Affected Images
+
+* Blind Image Decomposition
+
+## CVPR 2022
 
 # Datasets
 
