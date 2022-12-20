@@ -32,9 +32,11 @@ This is a repository that contains computer vision algorithms that works in rain
 
 * Networks are Slacking Off: Understanding Generalization Problem in Image Deraining [[OpenReview](https://openreview.net/forum?id=qGuU8To1y7x)] 
 
+
 ## NeurlPS 2022
 
 * Generative Status Estimation and Information Decoupling for Image Rain Removal [[OpenReview](https://openreview.net/forum?id=C2o5DeL_8L1)]
+
 
 ## ECCV 2022
 
@@ -67,11 +69,17 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 
 ## AAAI 2022
 
-* Online-Updated High-Order Collaborative Networks for Single Image Deraining [[paper](https://arxiv.org/abs/2202.06568)] **(NO CODE)**
+* Online-Updated High-Order Collaborative Networks for Single Image Deraining [[paper](https://arxiv.org/abs/2202.06568)] [[code](https://github.com/supersupercong/Online-updated-High-order-Collaborative-Networks-for-Single-Image-Deraining)]
 
 * Close the Loop: A Unified Bottom-Up and Top-Down Paradigm for Joint Image Deraining and Segmentation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20033)] **(NO CODE)**
 
 ## WACV 2022
+
+* FLUID: Few-Shot Self-Supervised Image Deraining [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Nandan_FLUID_Few-Shot_Self-Supervised_Image_Deraining_WACV_2022_paper.html)] **(NO CODE)**
+
+* Single Image Deraining Network With Rain Embedding Consistency and Layered LSTM [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Li_Single_Image_Deraining_Network_With_Rain_Embedding_Consistency_and_Layered_WACV_2022_paper.html)] [[code](https://github.com/Yizhou-Li-CV/ECNet)]
+
+<!-- * SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Deraining [[paper]()] [[code]()] -->
 
 
 ## TIP 2022
@@ -80,7 +88,7 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 
 ## ICCV 2021
 
-* Unpaired Learning for Deep Image Deraining with Rain Direction Regularizer [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.html)] **(NO CODE)**
+* Unpaired Learning for Deep Image Deraining with Rain Direction Regularizer [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.html)] [[data](https://github.com/Yueziyu/RainDirection-and-Real3000-Dataset)] **(NO CODE)**
 
 * Structure-Preserving Deraining with Residue Channel Prior Guidance [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yi_Structure-Preserving_Deraining_With_Residue_Channel_Prior_Guidance_ICCV_2021_paper.html)] [[code](https://github.com/joyies/spdnet)]
 
@@ -117,9 +125,6 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 * Rain Streak Removal via Dual Graph Convolutional Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16224)] **(NO CODE)**
 
 
-## WACV 2021
-
-
 ## TIP 2021
 
 * Online Rain/Snow Removal From Surveillance Videos [[paper](https://ieeexplore.ieee.org/document/9324987)] [[code](https://github.com/MinghanLi/OTMSCSC_matlab_2020)]
@@ -132,7 +137,7 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 
 # Datasets
 
-* TODO: re-check the category later
+* TODO: check the category later
 
 * Synthetic Dataset
   * Rain12
