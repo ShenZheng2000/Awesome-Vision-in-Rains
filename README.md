@@ -165,14 +165,14 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 * Conditional Variational Image Deraining
 
 
-## Year<=2019 (in chronological order) （TODO: keep updating if have time)
+## Year<=2019 (in chronological order) 
 
 * A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (TIP 2017)
 
 * Deep joint rain detection and removal from a single image (CVPR2017)
 
 * Removing rain from single images via a deep detail network (CVPR2017)
-* 
+
 * Clearing the skies: A deep network architecture for single-image rain removal (TIP 2017)
 
 * Attentive generative adversarial network for raindrop removal from a single image (CVPR 2018)
