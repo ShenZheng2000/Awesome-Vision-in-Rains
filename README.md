@@ -73,18 +73,11 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 
 * Close the Loop: A Unified Bottom-Up and Top-Down Paradigm for Joint Image Deraining and Segmentation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20033)] **(NO CODE)**
 
-## WACV 2022
-
-* FLUID: Few-Shot Self-Supervised Image Deraining [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Nandan_FLUID_Few-Shot_Self-Supervised_Image_Deraining_WACV_2022_paper.html)] **(NO CODE)**
-
-* Single Image Deraining Network With Rain Embedding Consistency and Layered LSTM [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Li_Single_Image_Deraining_Network_With_Rain_Embedding_Consistency_and_Layered_WACV_2022_paper.html)] [[code](https://github.com/Yizhou-Li-CV/ECNet)]
-
-<!-- * SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Deraining [[paper]()] [[code]()] -->
-
 
 ## TIP 2022
 
 * Feature-Aligned Video Raindrop Removal With Temporal Constraints [[paper](https://arxiv.org/abs/2205.14574)] **(NO CODE)**
+
 
 ## ICCV 2021
 
@@ -133,15 +126,84 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 
 * DerainCycleGAN: Rain Attentive CycleGAN for Single Image Deraining and Rainmaking [[paper](https://arxiv.org/abs/1912.07015)] [[code](https://github.com/OaDsis/DerainCycleGAN)]
 
+## TPAMI 2021
 
-## Year-2020
+* Physics-based generative adversarial models for image restoration and beyond
 
-## Year-2019
 
-## Year-2018
+## ECCV 2020
 
-## Year<=2017
+* Rethinking Image Deraining via Rain Streaks and Vapors
 
+* Beyond Monocular Deraining: Stereo Image Deraining via Semantic Understanding
+
+* Wavelet-Based Dual-Branch Network for Image Demoir´eing
+
+
+## CVPR 2020
+
+* Multi-Scale Progressive Fusion Network for Single Image Deraining
+
+* Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes
+
+* Detail-recovery Image Deraining via Context Aggregation Networks
+
+* All in One Bad Weather Removal Using Architectural Search
+
+* Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence
+
+* A Model-driven Deep Neural Network for Single Image Rain Removal
+
+
+## AAAI 2020
+
+* Towards scale-free rain streak removal via selfsupervised fractal band learning
+
+
+## TIP 2020
+
+* Conditional Variational Image Deraining
+
+
+## Year<=2019 (in chronological order) （TODO: keep updating if have time)
+
+* A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (TIP 2017)
+
+* Deep joint rain detection and removal from a single image (CVPR2017)
+
+* Removing rain from single images via a deep detail network (CVPR2017)
+* 
+* Clearing the skies: A deep network architecture for single-image rain removal (TIP 2017)
+
+* Attentive generative adversarial network for raindrop removal from a single image (CVPR 2018)
+
+* Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR 2018)
+
+* Learning dual convolutional neural networks for low-level vision (CVPR 2018)
+
+* Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM 2018)
+
+* Recurrent squeeze-and-excitation context aggregation net for single image deraining (ECCV 2018)
+
+* Image De-raining Using a Conditional Generative Adversarial Network (TCSVT 2019)
+
+* Erl-net: Entangled representation learning for single image de-raining (ICCV 2019)
+
+* Uncertainty guided multi-scale residual learning-using a cycle spinning cnn for single image de-raining (CVPR 2019)
+
+* Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR 2019)
+
+* Progressive image deraining networks: A better and simpler baseline (CVPR 2019) 
+
+* Spatial attentive single-image deraining with a high quality real rain dataset (CVPR 2019) 
+
+* Semi-supervised transfer learning for image rain removal (CVPR 2019) 
+
+* Lightweight pyramid networks for image deraining (TNNLS2019)
+
+* Joint rain detection and removal from a single image with contextualized deep networks (TPAMI2019)
+
+* Scale-free single image deraining via visibility-enhanced recurrent wavelet learning (TIP 2019)
 
 
 # Datasets
