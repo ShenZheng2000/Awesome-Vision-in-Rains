@@ -51,7 +51,9 @@ This is a repository that contains computer vision algorithms that works in rain
 
 ## CVPR 2022
 
-* Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.html)] [[code]()]
+* MAXIM: Multi-Axis MLP for Image Processing [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.html)] [[code](https://github.com/google-research/maxim)]
+
+* Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.html)] [[code](https://github.com/swz30/Restormer)]
 
 * Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.html)] [[code](https://github.com/yuyi-sd/robust_rain_removal)]
 
@@ -108,7 +110,9 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 
 * Multi-Decoding Deraining Network and Quasi-Sparsity Based Training [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Multi-Decoding_Deraining_Network_and_Quasi-Sparsity_Based_Training_CVPR_2021_paper.html)]  **(NO CODE)**
 
-* Memory Oriented Transfer Learning for Semi-Supervised Image Deraining [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.html)] [[code](https://github.com/hhb072/MOSS)]
+* Memory Oriented Transfer Learning for Semi-Supervised Image Deraining [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.html)] [[code](https://github.com/hhb072/MOSS)]\
+
+* HINet: Half Instance Normalization Network for Image Restoration [[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Chen_HINet_Half_Instance_Normalization_Network_for_Image_Restoration_CVPRW_2021_paper.html)] [[code](https://github.com/megvii-model/HINet)]
 
 
 ## AAAI 2021
@@ -165,31 +169,15 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 * Conditional Variational Image Deraining
 
 
-## Year<=2019 (in chronological order) 
-
-* A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (TIP 2017)
-
-* Deep joint rain detection and removal from a single image (CVPR2017)
-
-* Removing rain from single images via a deep detail network (CVPR2017)
-
-* Clearing the skies: A deep network architecture for single-image rain removal (TIP 2017)
-
-* Attentive generative adversarial network for raindrop removal from a single image (CVPR 2018)
-
-* Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR 2018)
-
-* Learning dual convolutional neural networks for low-level vision (CVPR 2018)
-
-* Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM 2018)
-
-* Recurrent squeeze-and-excitation context aggregation net for single image deraining (ECCV 2018)
+## Year==2019
 
 * Image De-raining Using a Conditional Generative Adversarial Network (TCSVT 2019)
 
 * Erl-net: Entangled representation learning for single image de-raining (ICCV 2019)
 
-* Uncertainty guided multi-scale residual learning-using a cycle spinning cnn for single image de-raining (CVPR 2019)
+* RainFlow: Optical Flow Under Rain Streaks and Rain Veiling Effect (ICCV 2019)
+
+* Physics-Based Rendering for Improving Robustness to Rain (ICCV 2019)
 
 * Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR 2019)
 
@@ -199,6 +187,14 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 
 * Semi-supervised transfer learning for image rain removal (CVPR 2019) 
 
+* Depth-attentional Features for Single-image Rain Removal (CVPR 2019) 
+
+* Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining (CVPR 2019) 
+
+* Frame-Consistent Recurrent Video Deraining With Dual-Level Flow (CVPR 2019) 
+
+* Singe Image Rain Removal with Unpaired Information (AAAI 2019)
+
 * Lightweight pyramid networks for image deraining (TNNLS2019)
 
 * Joint rain detection and removal from a single image with contextualized deep networks (TPAMI2019)
@@ -206,9 +202,49 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 * Scale-free single image deraining via visibility-enhanced recurrent wavelet learning (TIP 2019)
 
 
+## Year == 2018
+
+* Attentive generative adversarial network for raindrop removal from a single image (CVPR 2018)
+
+* Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR 2018)
+
+* Learning dual convolutional neural networks for low-level vision (CVPR 2018)
+
+* Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos (CVPR 2018)
+
+* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (CVPR 2018)
+
+* Video Rain Streak Removal by Multiscale Convolutional Sparse Coding (CVPR 2018)
+
+* Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM 2018)
+
+* Recurrent squeeze-and-excitation context aggregation net for single image deraining (ECCV 2018)
+
+
+## Year == 2017
+
+* A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (TIP 2017)
+
+* Should We Encode Rain Streaks in Video as Deterministic or Stochastic? (ICCV 2017)
+
+* Joint Bi-Layer Optimization for Single-Image Rain Streak Removal (ICCV 2017)
+
+* Deep joint rain detection and removal from a single image (CVPR2017)
+
+* Removing rain from single images via a deep detail network (CVPR2017)
+
+* Video Desnowing and Deraining Based on Matrix Decomposition (CVPR2017)
+
+* A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors (CVPR 2017)
+
+* Clearing the skies: A deep network architecture for single-image rain removal (TIP 2017)
+
+
+
 # Datasets
 
 * TODO: check the category later
+* TODO: add more dataset later
 
 * Synthetic Dataset
   * Rain12
@@ -234,7 +270,6 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
   * SSIM
   * VIF
   * FSIM
-  * TODO: ad others
 
 * Non-Reference
   * NIQE
