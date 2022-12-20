@@ -162,73 +162,73 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Unsu
 
 ## Year==2019
  
-* Image De-raining Using a Conditional Generative Adversarial Network (TCSVT 2019) [[paper]()] [[code]()]
+* Image De-raining Using a Conditional Generative Adversarial Network (TCSVT 2019) [[paper](https://paperswithcode.com/paper/image-de-raining-using-a-conditional)] [[code](https://arxiv.org/pdf/1701.05957v4.pdf)]
 
-* Erl-net: Entangled representation learning for single image de-raining (ICCV 2019) [[paper]()] [[code]()]
+* Erl-net: Entangled representation learning for single image de-raining (ICCV 2019) [[paper](https://paperswithcode.com/paper/erl-net-entangled-representation-learning-for)] [[code](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)]
 
-* RainFlow: Optical Flow Under Rain Streaks and Rain Veiling Effect (ICCV 2019) [[paper]()] [[code]()]
+* RainFlow: Optical Flow Under Rain Streaks and Rain Veiling Effect (ICCV 2019) [[paper](https://paperswithcode.com/paper/rainflow-optical-flow-under-rain-streaks-and)] **(NO CODE)**
 
-* Physics-Based Rendering for Improving Robustness to Rain (ICCV 2019) [[paper]()] [[code]()]
+* Physics-Based Rendering for Improving Robustness to Rain (CVPR 2019) [[paper](https://paperswithcode.com/paper/physics-based-rendering-for-improving)] **(NO CODE)**
 
-* Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR 2019) [[paper]()] [[code]()]
+* Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)] [[code](https://github.com/liruoteng/HeavyRainRemoval)]
 
-* Progressive image deraining networks: A better and simpler baseline (CVPR 2019) [[paper]()] [[code]()]
+* Progressive image deraining networks: A better and simpler baseline (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ren_Progressive_Image_Deraining_Networks_A_Better_and_Simpler_Baseline_CVPR_2019_paper.pdf)] [[code](https://github.com/csdwren/PReNet)]
 
-* Spatial attentive single-image deraining with a high quality real rain dataset (CVPR 2019) [[paper]()] [[code]()]
+* Spatial attentive single-image deraining with a high quality real rain dataset (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Spatial_Attentive_Single-Image_Deraining_With_a_High_Quality_Real_Rain_CVPR_2019_paper.pdf)] [[code](https://github.com/stevewongv/SPANet)]
 
-* Semi-supervised transfer learning for image rain removal (CVPR 2019) [[paper]()] [[code]()]
+* Semi-supervised transfer learning for image rain removal (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Semi-Supervised_Transfer_Learning_for_Image_Rain_Removal_CVPR_2019_paper.pdf)] [[code](https://github.com/wwzjer/Semi-supervised-IRR)]
 
-* Depth-attentional Features for Single-image Rain Removal (CVPR 2019) [[paper]()] [[code]()]
+* Depth-attentional Features for Single-image Rain Removal (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)] [[code](https://github.com/xw-hu/DAF-Net)]
 
-* Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining (CVPR 2019) [[paper]()] [[code]()]
+* Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yasarla_Uncertainty_Guided_Multi-Scale_Residual_Learning-Using_a_Cycle_Spinning_CNN_for_CVPR_2019_paper.pdf)] [[code](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)]
 
-* Frame-Consistent Recurrent Video Deraining With Dual-Level Flow (CVPR 2019) [[paper]()] [[code]()]
+* Frame-Consistent Recurrent Video Deraining With Dual-Level Flow (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Frame-Consistent_Recurrent_Video_Deraining_With_Dual-Level_Flow_CVPR_2019_paper.pdf)] [[code](https://github.com/flyywh/Dual-FLow-Video-Deraining-CVPR-2019)]
 
-* Singe Image Rain Removal with Unpaired Information (AAAI 2019) [[paper]()] [[code]()]
+* Singe Image Rain Removal with Unpaired Information (AAAI 2019) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4971)] **(NO CODE)**
 
-* Lightweight pyramid networks for image deraining (TNNLS2019) [[paper]()] [[code]()]
+* Lightweight pyramid networks for image deraining (TNNLS2019) [[paper](https://arxiv.org/pdf/1805.06173v1.pdf)] [[code](https://xueyangfu.github.io/projects/LPNet.html)]
 
-* Joint rain detection and removal from a single image with contextualized deep networks (TPAMI2019) [[paper]()] [[code]()]
+* Joint rain detection and removal from a single image with contextualized deep networks (TPAMI2019) [[paper](https://ieeexplore.ieee.org/document/8627954)] [[code]()]
 
-* Scale-free single image deraining via visibility-enhanced recurrent wavelet learning (TIP 2019) [[paper]()] [[code]()]
+* Scale-free single image deraining via visibility-enhanced recurrent wavelet learning (TIP 2019) [[paper]()] [[code](https://github.com/flyywh/JORDER-E-Deep-Image-Deraining-TPAMI-2019-Journal)]
 
 
 ## Year == 2018
 
-* Attentive generative adversarial network for raindrop removal from a single image (CVPR 2018) [[paper]()] [[code]()]
+* Attentive generative adversarial network for raindrop removal from a single image (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)] [[code](https://github.com/rui1996/DeRaindrop)]
 
-* Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR 2018) [[paper]()] [[code]()]
+* Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)] [[code](https://github.com/hezhangsprinter/DID-MDN)]
 
-* Learning dual convolutional neural networks for low-level vision (CVPR 2018) [[paper]()] [[code]()]
+* Learning dual convolutional neural networks for low-level vision (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pan_Learning_Dual_Convolutional_CVPR_2018_paper.pdf)] [[code](https://github.com/jspan/dualcnn)]
 
-* Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos (CVPR 2018) [[paper]()] [[code]()]
+* Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)] [[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)]
 
-* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (CVPR 2018) [[paper]()] [[code]()]
+* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Robust_Video_Content_CVPR_2018_paper.pdf)] [[code](https://bitbucket.org/st_ntu_corplab/mrp2a/src/bd2633dbc9912b833de156c799fdeb82747c1240/?at=master)]
 
-* Video Rain Streak Removal by Multiscale Convolutional Sparse Coding (CVPR 2018) [[paper]()] [[code]()]
+* Video Rain Streak Removal by Multiscale Convolutional Sparse Coding (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf)] [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)]
 
-* Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM 2018) [[paper]()] [[code]()]
+* Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM 2018) [[paper](https://arxiv.org/pdf/1808.01491v1.pdf)] [[code](https://github.com/AlexHex7/NLEDN)]
 
-* Recurrent squeeze-and-excitation context aggregation net for single image deraining (ECCV 2018) [[paper]()] [[code]()]
+* Recurrent squeeze-and-excitation context aggregation net for single image deraining (ECCV 2018) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xia_Li_Recurrent_Squeeze-and-Excitation_Context_ECCV_2018_paper.pdf)] [[code](https://github.com/XiaLiPKU/RESCAN)]
 
 
 ## Year == 2017
 
-* A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (TIP 2017) [[paper]()] [[code]()]
+* A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (TIP 2017) [[paper](https://ieeexplore.ieee.org/document/7934435)] **(NO CODE)**
 
-* Should We Encode Rain Streaks in Video as Deterministic or Stochastic? (ICCV 2017) [[paper]()] [[code]()]
+* Should We Encode Rain Streaks in Video as Deterministic or Stochastic? (ICCV 2017) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wei_Should_We_Encode_ICCV_2017_paper.pdf)] [[code](https://github.com/wwzjer/RainRemoval_ICCV2017)]
 
-* Joint Bi-Layer Optimization for Single-Image Rain Streak Removal (ICCV 2017) [[paper]()] [[code]()]
+* Joint Bi-Layer Optimization for Single-Image Rain Streak Removal (ICCV 2017) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.pdf)] **(NO CODE)**
 
-* Deep joint rain detection and removal from a single image (CVPR2017) [[paper]()] [[code]()]
+* Deep joint rain detection and removal from a single image (CVPR2017) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[code](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)]
 
-* Removing rain from single images via a deep detail network (CVPR2017) [[paper]()] [[code]()]
+* Removing rain from single images via a deep detail network (CVPR2017) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
 
-* Video Desnowing and Deraining Based on Matrix Decomposition (CVPR2017) [[paper]()] [[code]()]
+* Video Desnowing and Deraining Based on Matrix Decomposition (CVPR2017) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Video_Desnowing_and_CVPR_2017_paper.pdf)] **(NO CODE)**
  
-* A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors (CVPR 2017) [[paper]()] [[code]()]
+* A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors (CVPR 2017) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.pdf)] **(NO CODE)**
 
-* Clearing the skies: A deep network architecture for single-image rain removal (TIP 2017) [[paper]()] [[code]()]
+* Clearing the skies: A deep network architecture for single-image rain removal (TIP 2017) [[paper](https://arxiv.org/pdf/1609.02087v2.pdf)] [[code](https://xueyangfu.github.io/projects/tip2017.html)]
 
 
 
