@@ -5,12 +5,15 @@ This is a repository that contains computer vision algorithms that works in rain
 [[pdf]()] [[code]()]
 
 # Surveys
+
+* A Comprehensive Benchmark Analysis of Single Image Deraining: Current Challenges and Future Perspectives (IJCV 2021) [[pdf]([https://link.springer.com/article/10.1007/s11263-020-01416-w](https://link.springer.com/content/pdf/10.1007/s11263-020-01416-w.pdf?pdf=button%20sticky))]
 * Survey on rain removal from videos or a single image (SCI China 2021) [[pdf](https://link.springer.com/content/pdf/10.1007/s11432-020-3225-9.pdf?pdf=button)]
 * Single image deraining: From model-based to data-driven and beyond (TPAMI 2020) [[pdf](https://arxiv.org/abs/1912.07150)]
+  * Realistic Evaluation Metrics
   * Combine Model-driven and Data-driven (e.g., deep unroll)
-  * Semi/unsupervised learning, domain adaptation, transfer learning
+  * Generalize to real-world rains (e.g., semi/unsupervised learning, domain adaptation, transfer learning)
   * Fast, small, robust video deraining
-  * Deraining as Task-specific preprocessing
+  * Deraining as Task-specific preprocessing (helps high-level tasks)
   * Multi-task learning (e.g., with snow, haze)
 
 * A Survey of Single Image De-raining in 2020 (Arxiv 2020) [[pdf](https://link.springer.com/chapter/10.1007/978-981-16-3945-6_75)]
@@ -58,6 +61,26 @@ This is a repository that contains computer vision algorithms that works in rain
 
 # Datasets
 
+* Synthetic Dataset
+
+* Real Dataset
+
 # Metrics
 
-# Resources
+* Full-Reference
+  * PSNR
+  * SSIM
+  * VIF
+  * FSIM
+  * TODO: ad others
+
+* Non-Reference
+  * NIQE
+  * BRISQUE
+  * SSEQ
+
+# Repositories
+
+* [[DerainZoo (Single Image vs. Video Based)](https://github.com/nnUyi/DerainZoo)]
+
+* [[Video-and-Single-Image-Deraining](https://github.com/hongwang01/Video-and-Single-Image-Deraining)]
