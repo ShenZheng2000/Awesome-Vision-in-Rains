@@ -9,17 +9,19 @@ This is a repository that contains computer vision algorithms that works in rain
 * A Comprehensive Benchmark Analysis of Single Image Deraining: Current Challenges and Future Perspectives (IJCV 2021) [[pdf]([https://link.springer.com/article/10.1007/s11263-020-01416-w](https://link.springer.com/content/pdf/10.1007/s11263-020-01416-w.pdf?pdf=button%20sticky))]
 * Survey on rain removal from videos or a single image (SCI China 2021) [[pdf](https://link.springer.com/content/pdf/10.1007/s11432-020-3225-9.pdf?pdf=button)]
 * Single image deraining: From model-based to data-driven and beyond (TPAMI 2020) [[pdf](https://arxiv.org/abs/1912.07150)]
+* A Survey of Single Image De-raining in 2020 (Arxiv 2020) [[pdf](https://link.springer.com/chapter/10.1007/978-981-16-3945-6_75)]
+
+* Keypoints of these surveys
   * Realistic Evaluation Metrics
   * Combine Model-driven and Data-driven (e.g., deep unroll)
   * Generalize to real-world rains (e.g., semi/unsupervised learning, domain adaptation, transfer learning)
-  * Fast, small, robust video deraining
+  * Fast, small (simple), robust video deraining
   * Deraining as Task-specific preprocessing (helps high-level tasks)
   * Multi-task learning (e.g., with snow, haze)
-
-* A Survey of Single Image De-raining in 2020 (Arxiv 2020) [[pdf](https://link.springer.com/chapter/10.1007/978-981-16-3945-6_75)]
   * Solve Over-derain, Under-derain, and residual artifacts
-  * Simplfy network architectures and modules
-  * Use unpaired training data with natural (i.e., real-world) rains
+
+
+<!--   * Use unpaired training data with natural (i.e., real-world) rains -->
 
 
 # Models (Deraining)
