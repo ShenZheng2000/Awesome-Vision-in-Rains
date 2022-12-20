@@ -60,6 +60,13 @@ This is a repository that contains computer vision algorithms that works in rain
 
 * Neural Compression-Based Feature Learning for Video Restoration [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Neural_Compression-Based_Feature_Learning_for_Video_Restoration_CVPR_2022_paper.pdf)] **(NO CODE)**
 
+
+## AAAI 2022
+
+* Online-Updated High-Order Collaborative Networks for Single Image Deraining [[paper](https://arxiv.org/abs/2202.06568)]
+
+* Close the Loop: A Unified Bottom-Up and Top-Down Paradigm for Joint Image Deraining and Segmentation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20033)]
+
 ## ICCV 2021
 
 * Unpaired Learning for Deep Image Deraining with Rain Direction Regularizer [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.html)]
@@ -88,6 +95,12 @@ This is a repository that contains computer vision algorithms that works in rain
 * Multi-Decoding Deraining Network and Quasi-Sparsity Based Training [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Multi-Decoding_Deraining_Network_and_Quasi-Sparsity_Based_Training_CVPR_2021_paper.html)]
 
 * Memory Oriented Transfer Learning for Semi-Supervised Image Deraining [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.html)]
+
+## AAAI 2021
+
+* EfficientDeRain: Learning Pixel-Wise Dilation Filtering for High-Efficiency Single-Image Deraining [[paper](https://arxiv.org/abs/2009.09238)]
+
+* Rain Streak Removal via Dual Graph Convolutional Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16224)]
 
 # Datasets
 
