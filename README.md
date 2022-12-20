@@ -41,61 +41,61 @@ This is a repository that contains computer vision algorithms that works in rain
 ## ECCV 2022
 
 * Rethinking Video Rain Streak Removal: A New Synthesis Model and A Deraining Network with Video Rain Prior 
-  * [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790556.pdf)] [[code](https://github.com/wangshauitj/RDD-Net)] [cite=0]
+  * RDD-Net [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790556.pdf)] [[code](https://github.com/wangshauitj/RDD-Net)] [cite=0]
 
 * Not Just Streaks: Towards Ground Truth for Single Image Deraining 
-  * [[paper](https://arxiv.org/abs/2206.10779)] [[code](https://github.com/UCLA-VMG/GT-RAIN)] [cite=0]
+  * GT-RAIN [[paper](https://arxiv.org/abs/2206.10779)] [[code](https://github.com/UCLA-VMG/GT-RAIN)] [cite=0]
 
 * ART-SS: An Adaptive Rejection Technique for Semi-Supervised Restoration for Adverse Weather-Affected Images 
-  * [[paper](https://arxiv.org/abs/2203.09275)] [[code](https://github.com/rajeevyasarla/ART-SS)] [cite=0]
+  * ART-SS [[paper](https://arxiv.org/abs/2203.09275)] [[code](https://github.com/rajeevyasarla/ART-SS)] [cite=0]
 
 * Blind Image Decomposition 
-  * [[paper](https://arxiv.org/abs/2108.11364)] [[code](https://github.com/JunlinHan/BID)] [cite=0]
+  * BID [[paper](https://arxiv.org/abs/2108.11364)] [[code](https://github.com/JunlinHan/BID)] [cite=0]
 
 
 ## CVPR 2022
 
 * MAXIM: Multi-Axis MLP for Image Processing 
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.pdf)] [[code](https://github.com/google-research/maxim)] [cite=39]
+  * MAXIM [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.pdf)] [[code](https://github.com/google-research/maxim)] [cite=39]
 
 * Restormer: Efficient Transformer for High-Resolution Image Restoration 
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf)] [[code](https://github.com/swz30/Restormer)] [cite=179]
+  * Restormer [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf)] [[code](https://github.com/swz30/Restormer)] [cite=179]
 
 * Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond 
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.pdf)] [[code](https://github.com/yuyi-sd/robust_rain_removal)] [cite=4]
+  * Yu et al. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.pdf)] [[code](https://github.com/yuyi-sd/robust_rain_removal)] [cite=4]
 
 * Dreaming To Prune Image Deraining Networks 
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.pdf)] **(NO CODE)** [cite=3]
+  * Zou et al. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.pdf)] **(NO CODE)** [cite=3]
 
 * Unsupervised Deraining: Where Contrastive Learning Meets Self-Similarity 
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Unsupervised_Deraining_Where_Contrastive_Learning_Meets_Self-Similarity_CVPR_2022_paper.pdf)] [[code](https://github.com/yunguo224/NLCL)] [cite=1]
+  * NLCL [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Unsupervised_Deraining_Where_Contrastive_Learning_Meets_Self-Similarity_CVPR_2022_paper.pdf)] [[code](https://github.com/yunguo224/NLCL)] [cite=1]
 
 * Unpaired Deep Image Deraining Using Dual Contrastive Learning 
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Unpaired_Deep_Image_Deraining_Using_Dual_Contrastive_Learning_CVPR_2022_paper.pdf)] **(NO CODE)** [cite=8]
+  * DCDGAN [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Unpaired_Deep_Image_Deraining_Using_Dual_Contrastive_Learning_CVPR_2022_paper.pdf)] **(NO CODE)** [cite=8]
 
 * Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model 
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf)] [[code](https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal)] [cite=8]
+  * Chen et al. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf)] [[code](https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal)] [cite=8]
 
 * Neural Compression-Based Feature Learning for Video Restoration
-  * [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Neural_Compression-Based_Feature_Learning_for_Video_Restoration_CVPR_2022_paper.pdf)] **(NO CODE)** [cite=3]
+  * Huang et al. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Neural_Compression-Based_Feature_Learning_for_Video_Restoration_CVPR_2022_paper.pdf)] **(NO CODE)** [cite=3]
 
 
 ## AAAI 2022
 
 * Online-Updated High-Order Collaborative Networks for Single Image Deraining 
-  * [[paper](https://arxiv.org/abs/2202.06568)] [[code](https://github.com/supersupercong/Online-updated-High-order-Collaborative-Networks-for-Single-Image-Deraining)] [cite=2]
+  *  Wang et al. [[paper](https://arxiv.org/abs/2202.06568)] [[code](https://github.com/supersupercong/Online-updated-High-order-Collaborative-Networks-for-Single-Image-Deraining)] [cite=2]
 
 * Close the Loop: A Unified Bottom-Up and Top-Down Paradigm for Joint Image Deraining and Segmentation 
-  * [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20033)] **(NO CODE)** [cite=4]
+  * UBCN [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20033)] **(NO CODE)** [cite=4]
 
 
 ## TIP 2022
 
 * Feature-Aligned Video Raindrop Removal With Temporal Constraints 
-  * [[paper](https://arxiv.org/abs/2205.14574)] **(NO CODE)** [cite=1]
+  * Yan et al. [[paper](https://arxiv.org/abs/2205.14574)] **(NO CODE)** [cite=1]
 
 
-## ICCV 2021
+## ICCV 2021 (TODO: start from here)
 
 * Unpaired Learning for Deep Image Deraining with Rain Direction Regularizer 
   * [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf)] [[data](https://github.com/Yueziyu/RainDirection-and-Real3000-Dataset)] **(NO CODE)** [cite=10]
