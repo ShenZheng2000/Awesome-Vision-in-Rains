@@ -68,6 +68,8 @@ This is a repository that contains computer vision algorithms that works in rain
 
 * Improving De-raining Generalization via Neural Reorganization [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.html)]
 
+* Let’s See Clearly: Contaminant Artifact Removal for Moving Cameras [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Lets_See_Clearly_Contaminant_Artifact_Removal_for_Moving_Cameras_ICCV_2021_paper.html)]
+
 
 ## CVPR 2021
 
