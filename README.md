@@ -48,6 +48,8 @@ This is a repository that contains computer vision algorithms that works in rain
 
 ## CVPR 2022
 
+* Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.html)]
+
 * Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.html)] [[code](https://github.com/yuyi-sd/robust_rain_removal)]
 
 * Dreaming To Prune Image Deraining Networks [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.html)] **(NO CODE)**
@@ -104,9 +106,23 @@ This is a repository that contains computer vision algorithms that works in rain
 
 # Datasets
 
+* TODO: re-check the category later
+
 * Synthetic Dataset
+  * Rain12
+  * Rain100L
+  * Rain100H
+  * Rain800
+  * Rain1200
+  * Rain1400
+  * Rain12600
+  * Heavy Rain
+  * RainCityScapes
+  * NYU-Rain
+  * MPID
 
 * Real Dataset
+  * SPA Dataset
 
 # Metrics
 
@@ -122,8 +138,10 @@ This is a repository that contains computer vision algorithms that works in rain
   * BRISQUE
   * SSEQ
 
-# Repositories
+# Resources
 
 * [[DerainZoo (Single Image vs. Video Based)](https://github.com/nnUyi/DerainZoo)]
 
 * [[Video-and-Single-Image-Deraining](https://github.com/hongwang01/Video-and-Single-Image-Deraining)]
+
+* [[Single Image Deraining](https://paperswithcode.com/task/single-image-deraining)]
