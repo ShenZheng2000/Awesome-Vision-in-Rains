@@ -135,38 +135,29 @@ imilarity [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupe
 * Physics-based generative adversarial models for image restoration and beyond
 
 
-## ECCV 2020
+## Year==2020
 
-* Rethinking Image Deraining via Rain Streaks and Vapors
+* Rethinking Image Deraining via Rain Streaks and Vapors (ECCV 2020)
 
-* Beyond Monocular Deraining: Stereo Image Deraining via Semantic Understanding
+* Beyond Monocular Deraining: Stereo Image Deraining via Semantic Understanding (ECCV 2020)
 
-* Wavelet-Based Dual-Branch Network for Image Demoir´eing
+* Wavelet-Based Dual-Branch Network for Image Demoir´eing (ECCV 2020)
 
+* Multi-Scale Progressive Fusion Network for Single Image Deraining (CVPR 2020)
 
-## CVPR 2020
+* Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes (CVPR 2020)
 
-* Multi-Scale Progressive Fusion Network for Single Image Deraining
+* Detail-recovery Image Deraining via Context Aggregation Networks (CVPR 2020)
 
-* Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes
+* All in One Bad Weather Removal Using Architectural Search (CVPR 2020)
 
-* Detail-recovery Image Deraining via Context Aggregation Networks
+* Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence (CVPR 2020) (CVPR 2020)
 
-* All in One Bad Weather Removal Using Architectural Search
+* A Model-driven Deep Neural Network for Single Image Rain Removal (CVPR 2020)
 
-* Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence
+* Towards scale-free rain streak removal via selfsupervised fractal band learning (AAAI 2020)
 
-* A Model-driven Deep Neural Network for Single Image Rain Removal
-
-
-## AAAI 2020
-
-* Towards scale-free rain streak removal via selfsupervised fractal band learning
-
-
-## TIP 2020
-
-* Conditional Variational Image Deraining
+* Conditional Variational Image Deraining (TIP 2020)
 
 
 ## Year==2019
