@@ -8,7 +8,7 @@ This is a repository that contains computer vision algorithms that works in rain
 
 * A Comprehensive Benchmark Analysis of Single Image Deraining: Current Challenges and Future Perspectives (IJCV 2021) [[paper](https://link.springer.com/article/10.1007/s11263-020-01416-w)]
 * Survey on rain removal from videos or a single image (SCI China 2021) [[paper](https://link.springer.com/content/pdf/10.1007/s11432-020-3225-9.pdf?pdf=button)]
-* Single image deraining: From model-based to data-driven and beyond (TPAMI 2020) [[paper](https://arxiv.org/abs/1912.07150)]
+* Single image deraining: From model-based to data-driven and beyond (TPAMI 2020) [[paper](https://arxiv.org/pdf/1912.07150.pdf)]
 * A Survey of Single Image De-raining in 2020 (Arxiv 2020) [[paper](https://link.springer.com/chapter/10.1007/978-981-16-3945-6_75)]
 
 * Key takeways from these surveys
@@ -45,13 +45,13 @@ This is a repository that contains computer vision algorithms that works in rain
   * RDD-Net [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790556.pdf)] [[code](https://github.com/wangshauitj/RDD-Net)] [cite=0]
 
 * Not Just Streaks: Towards Ground Truth for Single Image Deraining 
-  * GT-RAIN [[paper](https://arxiv.org/abs/2206.10779)] [[code](https://github.com/UCLA-VMG/GT-RAIN)] [cite=0]
+  * GT-RAIN [[paper](https://arxiv.org/pdf/2206.10779.pdf)] [[code](https://github.com/UCLA-VMG/GT-RAIN)] [cite=0]
 
 * ART-SS: An Adaptive Rejection Technique for Semi-Supervised Restoration for Adverse Weather-Affected Images 
-  * ART-SS [[paper](https://arxiv.org/abs/2203.09275)] [[code](https://github.com/rajeevyasarla/ART-SS)] [cite=0]
+  * ART-SS [[paper](https://arxiv.org/pdf/2203.09275.pdf)] [[code](https://github.com/rajeevyasarla/ART-SS)] [cite=0]
 
 * Blind Image Decomposition 
-  * BID [[paper](https://arxiv.org/abs/2108.11364)] [[code](https://github.com/JunlinHan/BID)] [cite=0]
+  * BID [[paper](https://arxiv.org/pdf/2108.11364.pdf)] [[code](https://github.com/JunlinHan/BID)] [cite=0]
 
 
 ## CVPR 2022
@@ -84,7 +84,7 @@ This is a repository that contains computer vision algorithms that works in rain
 ## AAAI 2022
 
 * Online-Updated High-Order Collaborative Networks for Single Image Deraining 
-  *  Wang et al. [[paper](https://arxiv.org/abs/2202.06568)] [[code](https://github.com/supersupercong/Online-updated-High-order-Collaborative-Networks-for-Single-Image-Deraining)] [cite=2]
+  *  Wang et al. [[paper](https://arxiv.org/pdf/2202.06568.pdf)] [[code](https://github.com/supersupercong/Online-updated-High-order-Collaborative-Networks-for-Single-Image-Deraining)] [cite=2]
 
 * Close the Loop: A Unified Bottom-Up and Top-Down Paradigm for Joint Image Deraining and Segmentation 
   * UBCN [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20033)] **(NO CODE)** [cite=4]
@@ -93,7 +93,7 @@ This is a repository that contains computer vision algorithms that works in rain
 ## TIP 2022
 
 * Feature-Aligned Video Raindrop Removal With Temporal Constraints 
-  * Yan et al. [[paper](https://arxiv.org/abs/2205.14574)] **(NO CODE)** [cite=1]
+  * Yan et al. [[paper](https://arxiv.org/pdf/2205.14574.pdf)] **(NO CODE)** [cite=1]
 
 
 ## ICCV 2021
@@ -147,7 +147,7 @@ This is a repository that contains computer vision algorithms that works in rain
 ## AAAI 2021
 
 * EfficientDeRain: Learning Pixel-Wise Dilation Filtering for High-Efficiency Single-Image Deraining 
-  * EfficientDeRain [[paper](https://arxiv.org/abs/2009.09238)] [[code](https://github.com/tsingqguo/efficientderain)] [cite=33]
+  * EfficientDeRain [[paper](https://arxiv.org/pdf/2009.09238.pdf)] [[code](https://github.com/tsingqguo/efficientderain)] [cite=33]
 
 * Rain Streak Removal via Dual Graph Convolutional Network 
   * DualGCN [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16224)] **(NO CODE)** [cite=43]
@@ -159,10 +159,10 @@ This is a repository that contains computer vision algorithms that works in rain
   * OMS-CSC [[paper](https://ieeexplore.ieee.org/document/9324987)] [[code](https://github.com/MinghanLi/OTMSCSC_matlab_2020)] [cite=20]
 
 * Triple-Level Model Inferred Collaborative Network Architecture for Video Deraining 
-  * TMICS [[paper](https://arxiv.org/abs/2111.04459)] [[code](https://github.com/dut-media-lab/TMICS)] [cite=4]
+  * TMICS [[paper](https://arxiv.org/pdf/2111.04459.pdf)] [[code](https://github.com/dut-media-lab/TMICS)] [cite=4]
 
 * DerainCycleGAN: Rain Attentive CycleGAN for Single Image Deraining and Rainmaking 
-  * DerainCycleGAN [[paper](https://arxiv.org/abs/1912.07015)] [[code](https://github.com/OaDsis/DerainCycleGAN)] [cite=76]
+  * DerainCycleGAN [[paper](https://arxiv.org/pdf/1912.07015.pdf)] [[code](https://github.com/OaDsis/DerainCycleGAN)] [cite=76]
 
 ## TPAMI 2021
 
@@ -179,7 +179,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * PRRNet [[paper]([https://paperswithcode.com/paper/beyond-monocular-deraining-stereo-image](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720069.pdf))] **(NO CODE)** [cite=25]
 
 * Wavelet-Based Dual-Branch Network for Image Demoireing (ECCV 2020) 
-  * WDNet [[paper]([https://arxiv.org/abs/2007.07173](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580086.pdf))] **(NO CODE)** [cite=42]
+  * WDNet [[paper]([https://arxiv.org/pdf/2007.07173.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580086.pdf))] **(NO CODE)** [cite=42]
 
 * Multi-Scale Progressive Fusion Network for Single Image Deraining (CVPR 2020) 
   * MSPFN [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Multi-Scale_Progressive_Fusion_Network_for_Single_Image_Deraining_CVPR_2020_paper.pdf)] [[code](https://github.com/kuijiang94/MSPFN)] [cite=263]
@@ -311,25 +311,24 @@ This is a repository that contains computer vision algorithms that works in rain
 
 # Datasets
 
-* TODO: check the category later
-* TODO: add more dataset later
 
 * Synthetic Dataset
-  * Rain12
-  * Rain100L
-  * Rain100H
-  * Rain800
-  * Rain1200
-  * Rain1400
-  * Rain12600
-  * Heavy Rain
-  * RainCityScapes
-  * NYU-Rain
-  * MPID
+  * Rain12 [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Rain_Streak_Removal_CVPR_2016_paper.pdf)] [[link](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg#list/path=%2Fsharelink3792638399-290876125944720%2Fdatasets&parentPath=%2Fsharelink3792638399-290876125944720)]
+    * same link for Rain100L, Rain100H, Rain1400, and Rain12600
+  * Rain100L [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] 
+  * Rain100H [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)]  
+  * Rain1400 [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)]
+  * Rain12600 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]
+  * Rain800 [[paper](https://arxiv.org/pdf/1701.05957.pdf)] [[link](https://github.com/hezhangsprinter/ID-CGAN)]  
+  * Rain12000 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]  [[link](https://github.com/hezhangsprinter/DID-MDN)]  
+  * Outdoor-Rain [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]  [[link](https://www.dropbox.com/sh/zpadllquvmaztib/AACmzqQmGrRMp7qqXjbb7Gfza?dl=0)]  
+  * RainCityScapes [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)] [[link](https://github.com/xw-hu/DAF-Net)]  
+  * NYU-Rain [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)] [[link](https://github.com/liruoteng/HeavyRainRemoval)]  
+  * MPID [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf)] [[link](https://github.com/panda-lab/Single-Image-Deraining)]  
 
-* Real Dataset
-  * SPA Dataset
-
+* Real-World Dataset
+  * SPA Dataset [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Spatial_Attentive_Single-Image_Deraining_With_a_High_Quality_Real_Rain_CVPR_2019_paper.pdf)] [[link](https://pan.baidu.com/s/1lPn3MWckHxh1uBYYucoWVQ)]
+    * password:4fwo
 
 # Metrics
 
