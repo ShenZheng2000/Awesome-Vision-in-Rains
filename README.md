@@ -114,7 +114,7 @@ This is a repository that contains computer vision algorithms that works in rain
 ## CVPR 2021
 
 * Pre-Trained Image Processing Transformer 
-  * IPT [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)] [[code](https://github.com/huawei-noah/Pretrained-IPT)] [cite=615]
+  * IPT [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/huawei-noah/Pretrained-IPT)] [cite=615]
 
 * Self-Aligned Video Deraining With Transmission-Depth Consistency 
   * Yan et al. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/wending94/Self-Aligned-Video-Deraining-with-Transmission-Depth-Consistency)] [cite=8]
@@ -333,9 +333,9 @@ This is a repository that contains computer vision algorithms that works in rain
 # Metrics
 
 * Full-Reference
-  * PSNR
-  * SSIM
-  * VIF
+  * PSNR [[code](https://github.com/aizvorski/video-quality/blob/master/psnr.py)]
+  * SSIM [[code](https://github.com/aizvorski/video-quality/blob/master/ssim.py)]
+  * VIF [[code](https://github.com/aizvorski/video-quality/blob/master/vifp.py)]
   * FSIM
 
 * Non-Reference
