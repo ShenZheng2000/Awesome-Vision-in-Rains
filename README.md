@@ -272,7 +272,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * SPAC-CNN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Robust_Video_Content_CVPR_2018_paper.pdf)] [[MATLAB](https://bitbucket.org/st_ntu_corplab/mrp2a/src/bd2633dbc9912b833de156c799fdeb82747c1240/?at=master)] [cite=136]
 
 * Video Rain Streak Removal by Multiscale Convolutional Sparse Coding (CVPR 2018) 
-  * MSCSC [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf)] [[https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [cite=160]
+  * MSCSC [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf)] [[MATLAB](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [cite=160]
 
 * Non-locally enhanced encoder-decoder network for single image de-raining (ACMMM 2018) 
   * NLEDN [[paper](https://arxiv.org/pdf/1808.01491v1.pdf)] [[PyTorch](https://github.com/AlexHex7/NLEDN)] [cite=195]
