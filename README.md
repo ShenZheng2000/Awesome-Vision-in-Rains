@@ -336,12 +336,16 @@ This is a repository that contains computer vision algorithms that works in rain
   * PSNR [[code](https://github.com/aizvorski/video-quality/blob/master/psnr.py)]
   * SSIM [[code](https://github.com/aizvorski/video-quality/blob/master/ssim.py)]
   * VIF [[code](https://github.com/aizvorski/video-quality/blob/master/vifp.py)]
-  * FSIM
 
 * Non-Reference
-  * NIQE
-  * BRISQUE
-  * SSEQ
+  * NIQE [[code](https://github.com/aizvorski/video-quality/blob/master/niqe.py)]
+  * UNIQUE [[code]([https://github.com/aizvorski/video-quality/blob/master/niqe.py](https://github.com/zwx8981/UNIQUE))]
+  * SPAQ [[code](https://github.com/h4nwei/SPAQ)]
+
+* Task-driven 
+  * mAP
+  * mPA
+  * mIoU
 
 # Resources
 
