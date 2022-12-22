@@ -260,7 +260,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * Attentive GAN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)] [[PyTorch](https://github.com/rui1996/DeRaindrop)] [cite=474]
 
 * Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR 2018) 
-  * DID-MDN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)] [[PyTorch ](https://github.com/hezhangsprinter/DID-MDN)] [cite=623]
+  * DID-MDN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)] [[PyTorch](https://github.com/hezhangsprinter/DID-MDN)] [cite=623]
 
 * Learning dual convolutional neural networks for low-level vision (CVPR 2018) 
   * DualCNN  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pan_Learning_Dual_Convolutional_CVPR_2018_paper.pdf)] [[PyTorch](https://github.com/jspan/dualcnn)] [cite=151]
@@ -278,7 +278,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * NLEDN [[paper](https://arxiv.org/pdf/1808.01491v1.pdf)] [[PyTorch](https://github.com/AlexHex7/NLEDN)] [cite=195]
 
 * Recurrent squeeze-and-excitation context aggregation net for single image deraining (ECCV 2018) 
-  * RESCAN [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xia_Li_Recurrent_Squeeze-and-Excitation_Context_ECCV_2018_paper.pdf)] [[Pytorch](https://github.com/XiaLiPKU/RESCAN)] [cite=514]
+  * RESCAN [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xia_Li_Recurrent_Squeeze-and-Excitation_Context_ECCV_2018_paper.pdf)] [[PyTorch](https://github.com/XiaLiPKU/RESCAN)] [cite=514]
 
 
 ## Year == 2017
