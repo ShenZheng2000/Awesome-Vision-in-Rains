@@ -35,7 +35,8 @@ This is a repository that contains computer vision algorithms that works in rain
 
 ## NeurlPS 2022
 
-* Generative Status Estimation and Information Decoupling for Image Rain Removal [[OpenReview](https://openreview.net/forum?id=C2o5DeL_8L1)]
+* Generative Status Estimation and Information Decoupling for Image Rain Removal 
+  * SEIDNet [[OpenReview](https://openreview.net/forum?id=C2o5DeL_8L1)]
 
 
 ## ECCV 2022
