@@ -266,7 +266,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * DualCNN  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pan_Learning_Dual_Convolutional_CVPR_2018_paper.pdf)] [[PyTorch](https://github.com/jspan/dualcnn)] [cite=151]
 
 * Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos (CVPR 2018) 
-  * Erase or Fill [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)] [[MATLAB](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)] [cite=152]
+  * J4R-Net [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)] [[MATLAB](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)] [cite=152]
 
 * Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (CVPR 2018) 
   * SPAC-CNN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Robust_Video_Content_CVPR_2018_paper.pdf)] [[MATLAB](https://bitbucket.org/st_ntu_corplab/mrp2a/src/bd2633dbc9912b833de156c799fdeb82747c1240/?at=master)] [cite=136]
