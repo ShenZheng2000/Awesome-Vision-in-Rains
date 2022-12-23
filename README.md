@@ -329,7 +329,8 @@ This is a repository that contains computer vision algorithms that works in rain
 * Real-World Dataset
   * SPA Dataset [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Spatial_Attentive_Single-Image_Deraining_With_a_High_Quality_Real_Rain_CVPR_2019_paper.pdf)] [[link](https://pan.baidu.com/s/1lPn3MWckHxh1uBYYucoWVQ)]
     * password:4fwo
-
+  * GT-Rain [[paper](https://arxiv.org/pdf/2206.10779.pdf)] [[link](https://drive.google.com/drive/folders/1NSRl954QPcGIgoyJa_VjQwh_gEaHWPb8)]
+ 
 # Metrics
 
 * Full-Reference
