@@ -138,7 +138,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * MDDNet [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Multi-Decoding_Deraining_Network_and_Quasi-Sparsity_Based_Training_CVPR_2021_paper.pdf)]  **(NO CODE)** [cite=11]
 
 * Memory Oriented Transfer Learning for Semi-Supervised Image Deraining 
-  * MOSS [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/hhb072/MOSS)] [cite=37]
+  * MOSS [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Memory_Oriented_Transfer_Learning_for_Semi-Supervised_Image_Deraining_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/hhb072/MOSS)] [cite=37]
 
 * HINet: Half Instance Normalization Network for Image Restoration 
   * HINet [[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Chen_HINet_Half_Instance_Normalization_Network_for_Image_Restoration_CVPRW_2021_paper.pdf)] [[PyTorch](https://github.com/megvii-model/HINet)] [cite=107]
