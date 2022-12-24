@@ -321,6 +321,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * Rain12600 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]
   * Rain800 [[paper](https://arxiv.org/pdf/1701.05957.pdf)] [[link](https://github.com/hezhangsprinter/ID-CGAN)]  
   * Rain12000 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]  [[link](https://github.com/hezhangsprinter/DID-MDN)]  
+  * Rain14000 [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[link](https://pan.baidu.com/s/1Hvm9ctniC7PMQdKrI_lf3Q)]
   * Outdoor-Rain [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]  [[link](https://www.dropbox.com/sh/zpadllquvmaztib/AACmzqQmGrRMp7qqXjbb7Gfza?dl=0)]  
   * RainCityScapes [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)] [[link](https://github.com/xw-hu/DAF-Net)]  
   * NYU-Rain [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)] [[link](https://github.com/liruoteng/HeavyRainRemoval)]  
