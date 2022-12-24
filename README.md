@@ -220,7 +220,7 @@ This is a repository that contains computer vision algorithms that works in rain
 * Physics-Based Rendering for Improving Robustness to Rain (CVPR 2019) 
   * Halder et al. [[paper](https://paperswithcode.com/paper/physics-based-rendering-for-improving)] **(NO CODE)** [cite=72]
 
-* Heavy rain image restoration: Integrating physics model and conditional adversarial learning (CVPR 2019) 
+* HeavyRainRestorer: Integrating physics model and conditional adversarial learning (CVPR 2019) 
   * Heavy rain image restoration [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)] [[PyTorch](https://github.com/liruoteng/HeavyRainRemoval)] [cite=219]
 
 * Progressive image deraining networks: A better and simpler baseline (CVPR 2019) 
@@ -315,8 +315,8 @@ This is a repository that contains computer vision algorithms that works in rain
 * Synthetic Dataset
   * Rain12 [[Layer Priors](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Rain_Streak_Removal_CVPR_2016_paper.pdf)] [[link](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg#list/path=%2Fsharelink3792638399-290876125944720%2Fdatasets&parentPath=%2Fsharelink3792638399-290876125944720)]
     * same link for Rain100L, Rain100H, Rain1400, and Rain12600
-  * Rain100L [[Jorder](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] 
-  * Rain100H [[Jorder](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)]  
+  * Rain100L [[JORDER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] 
+  * Rain100H [[JORDER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)]  
   * Rain1400 [[DDN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)]
   * Rain12600 [[DID-MDN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]
   * Rain800 [[ID-CGAN](https://arxiv.org/pdf/1701.05957.pdf)] [[link](https://github.com/hezhangsprinter/ID-CGAN)]  
