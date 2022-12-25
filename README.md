@@ -120,7 +120,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * Yan et al. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/wending94/Self-Aligned-Video-Deraining-with-Transmission-Depth-Consistency)] [cite=8]
 
 * Semi-Supervised Video Deraining With Dynamical Rain Generator 
-  * DRG [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/zsyOAOA/S2VD)] [cite=26]
+  * S2VD [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/zsyOAOA/S2VD)] [cite=26]
 
 * Robust Representation Learning with Feedback for Single Image Deraining 
   * DerainRLNet  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Robust_Representation_Learning_With_Feedback_for_Single_Image_Deraining_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/LI-Hao-SJTU/DerainRLNet)] [cite=35]
