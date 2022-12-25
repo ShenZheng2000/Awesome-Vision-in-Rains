@@ -51,7 +51,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * ART-SS [[paper](https://arxiv.org/pdf/2203.09275.pdf)] [[PyTorch](https://github.com/rajeevyasarla/ART-SS)] [cite=0]
 
 * Blind Image Decomposition 
-  * BID [[paper](https://arxiv.org/pdf/2108.11364.pdf)] [[PyTorch](https://github.com/JunlinHan/BID)] [cite=0]
+  * BIDeN [[paper](https://arxiv.org/pdf/2108.11364.pdf)] [[PyTorch](https://github.com/JunlinHan/BID)] [cite=0]
 
 
 ## CVPR 2022
@@ -327,6 +327,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * NYU-Rain [[HeavyRainRestorer](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)] [[link](https://github.com/liruoteng/HeavyRainRemoval)]  
   * MPID [[Li Survey](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf)] [[link](https://github.com/panda-lab/Single-Image-Deraining)]  
   * RainMotion [[RDD-Net](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790556.pdf)] [[link](https://drive.google.com/file/d/1905B_e2RgQGnyfHd5xpjB4lTLYoq0Jm4/view)]
+  * BID [[BIDeN](https://arxiv.org/pdf/2108.11364.pdf)] [[link](https://drive.google.com/drive/folders/1wUUKTiRAGVvelarhsjmZZ_1iBdBaM6Ka)]
 
 * Real-World Dataset
   * Raindrop [[Attentive GAN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)] [[link](https://drive.google.com/drive/folders/1e7R76s6vwUJxILOcAsthgDLPSnOrQ49K)]
