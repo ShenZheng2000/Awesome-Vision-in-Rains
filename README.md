@@ -333,7 +333,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * SEMI [[SEMI](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Semi-Supervised_Transfer_Learning_for_Image_Rain_Removal_CVPR_2019_paper.pdf)] [[link](https://github.com/wwzjer/Semi-supervised-IRR/tree/master/data/rainy_image_dataset/real_input)]
   * SPA-Data [[SPANet](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Spatial_Attentive_Single-Image_Deraining_With_a_High_Quality_Real_Rain_CVPR_2019_paper.pdf)] [[link](https://pan.baidu.com/s/1lPn3MWckHxh1uBYYucoWVQ)]
     * password:4fwo
-  * GT-Rain [[GT-Rain](https://arxiv.org/pdf/2206.10779.pdf)] [[link](https://drive.google.com/drive/folders/1NSRl954QPcGIgoyJa_VjQwh_gEaHWPb8)]
+  * GT-RAIN [[GT-RAIN](https://arxiv.org/pdf/2206.10779.pdf)] [[link](https://drive.google.com/drive/folders/1NSRl954QPcGIgoyJa_VjQwh_gEaHWPb8)]
  
 # Metrics
 
