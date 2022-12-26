@@ -325,7 +325,7 @@ This is a repository that contains computer vision algorithms that works in rain
   * Outdoor-Rain [[HeavyRainRestorer](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]  [[link](https://www.dropbox.com/sh/zpadllquvmaztib/AACmzqQmGrRMp7qqXjbb7Gfza?dl=0)]  
   * RainCityScapes [[DAF-Net](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)] [[link](https://github.com/xw-hu/DAF-Net)] 
   * NYU-Rain [[HeavyRainRestorer](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)] [[link](https://github.com/liruoteng/HeavyRainRemoval)]  
-  * NTURain [[]]
+  * NTURain [[SPAC-CNN](https://arxiv.org/pdf/1803.10433.pdf)] [[link](https://github.com/hotndy/SPAC-SupplementaryMaterials)]
   * MPID [[Li Survey](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf)] [[link](https://github.com/panda-lab/Single-Image-Deraining)]  
   * RainMotion [[RDD-Net](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790556.pdf)] [[link](https://drive.google.com/file/d/1905B_e2RgQGnyfHd5xpjB4lTLYoq0Jm4/view)]
   * BID [[BIDeN](https://arxiv.org/pdf/2108.11364.pdf)] [[link](https://drive.google.com/drive/folders/1wUUKTiRAGVvelarhsjmZZ_1iBdBaM6Ka)]
