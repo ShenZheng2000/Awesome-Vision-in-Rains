@@ -316,9 +316,9 @@ This is a repository that contains computer vision algorithms that works in rain
   * Rain12 [[Layer Priors](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Rain_Streak_Removal_CVPR_2016_paper.pdf)] [[link](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg#list/path=%2Fsharelink3792638399-290876125944720%2Fdatasets&parentPath=%2Fsharelink3792638399-290876125944720)]
     * same link for Rain100L, Rain100H, Rain1400, and Rain12600
   * Rain100L [[JORDER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] 
-  * Rain100H [[JORDER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)]  
-  * Rain1400 [[DDN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)]
-  * Rain12600 [[DID-MDN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]
+  * Rain100H [[JORDER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] 
+  * Rain12600/Rain1400 [[DDN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)]
+  *  [[DID-MDN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]
   * Rain800 [[ID-CGAN](https://arxiv.org/pdf/1701.05957.pdf)] [[link](https://github.com/hezhangsprinter/ID-CGAN)] 
   * Rain12000 [[DID-MDN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]  [[link](https://github.com/hezhangsprinter/DID-MDN)]  
   * Rain14000 [[DDN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[link](https://pan.baidu.com/s/1Hvm9ctniC7PMQdKrI_lf3Q)]
