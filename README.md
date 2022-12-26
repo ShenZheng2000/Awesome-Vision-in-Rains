@@ -318,7 +318,6 @@ This is a repository that contains computer vision algorithms that works in rain
   * Rain100L [[JORDER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] 
   * Rain100H [[JORDER](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] 
   * Rain1400/Rain12600 [[DDN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)]
-  *  [[DID-MDN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]
   * Rain800 [[ID-CGAN](https://arxiv.org/pdf/1701.05957.pdf)] [[link](https://github.com/hezhangsprinter/ID-CGAN)] 
   * Rain12000 [[DID-MDN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)]  [[link](https://github.com/hezhangsprinter/DID-MDN)]  
   * Rain14000 [[DDN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[link](https://pan.baidu.com/s/1Hvm9ctniC7PMQdKrI_lf3Q)]
