@@ -351,7 +351,7 @@ This is a repository that contains computer vision algorithms that works in rain
 
 * Non-Reference
   * NIQE [[code](https://github.com/aizvorski/video-quality/blob/master/niqe.py)]
-  * UNIQUE [[code]([https://github.com/aizvorski/video-quality/blob/master/niqe.py](https://github.com/zwx8981/UNIQUE))]
+  * UNIQUE [[code](https://github.com/zwx8981/UNIQUE)]
   * SPAQ [[code](https://github.com/h4nwei/SPAQ)]
   * BRISQUE
   * SSEQ
