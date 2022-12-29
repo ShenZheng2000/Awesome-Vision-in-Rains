@@ -95,6 +95,17 @@ This is a repository that contains computer vision algorithms that works in rain
 * Feature-Aligned Video Raindrop Removal With Temporal Constraints 
   * Yan et al. [[paper](https://arxiv.org/pdf/2205.14574.pdf)] **(NO CODE)** [cite=1]
 
+## WACV 2022
+
+* Single Image Deraining Network with Rain Embedding Consistency and Layered LSTM
+  * Li et al. [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Li_Single_Image_Deraining_Network_With_Rain_Embedding_Consistency_and_Layered_WACV_2022_paper.pdf)] [[PyTorch](https://github.com/Yizhou-Li-CV/ECNet)] [cite=6]
+
+* FLUID: Few-Shot Self-Supervised Image Deraining 
+  * Rai et al. [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Nandan_FLUID_Few-Shot_Self-Supervised_Image_Deraining_WACV_2022_paper.pdf)] **(NO CODE)** 
+
+* SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Deraining 
+  * Zheng et al. [[paper](https://openaccess.thecvf.com/content/WACV2022W/VAQ/papers/Zheng_SAPNet_Segmentation-Aware_Progressive_Network_for_Perceptual_Contrastive_Deraining_WACVW_2022_paper.pdf)] [[PyTorch](https://github.com/ShenZheng2000/SAPNet-for-image-deraining)] [cite=9]
+
 
 ## ICCV 2021
 
