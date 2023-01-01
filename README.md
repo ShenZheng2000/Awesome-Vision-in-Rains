@@ -11,7 +11,7 @@ This is a repository that contains computer vision algorithms that works in rain
 * Single image deraining: From model-based to data-driven and beyond (TPAMI 2020) [[paper](https://arxiv.org/pdf/1912.07150.pdf)]
 * A Survey of Single Image De-raining in 2020 (Arxiv 2020) [[paper](https://link.springer.com/chapter/10.1007/978-981-16-3945-6_75)]
 
-* Key takeways from these surveys
+* Key takeways (future directions) from these surveys
   * Realistic Evaluation Metrics
   * Combine Model-driven and Data-driven (e.g., deep unroll)
   * Generalize to real-world rains (e.g., semi/unsupervised learning, domain adaptation, transfer learning)
